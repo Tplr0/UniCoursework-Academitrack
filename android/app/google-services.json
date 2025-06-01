@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "364705335202",
+    "firebase_url": "https://academitrack-b195c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "academitrack-b195c",
+    "storage_bucket": "academitrack-b195c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364705335202:android:0f4dac8407de6abca614fb",
+        "android_client_info": {
+          "package_name": "com.example.academitrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkU35Lghs48wsECUTwtxmNRTYgKLmKS08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
