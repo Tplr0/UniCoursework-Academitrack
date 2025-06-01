@@ -1,16 +1,67 @@
-# academitrack
+# AcademiTrack
 
-A new Flutter project.
+**Student Productivity App using Flutter**
+AcademiTrack is a cross-platform mobile app built with Flutter to help students track academic tasks, manage coursework deadlines, and visualize progress. The app integrates Firebase for real-time data sync and user authentication.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Features**
 
-A few resources to get you started if this is your first Flutter project:
+* Create, edit, and delete academic tasks by course or project
+* Track completion status and progress
+* User authentication with Firebase
+* Real-time database sync
+* Project-specific task filtering
+* Simple, clean UI with responsive layout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **Prerequisites**
+
+To run this project, you’ll need:
+
+* Flutter SDK 3.x+
+* Firebase project setup with `google-services.json` and `firebase_options.dart`
+
+---
+
+## **Getting Started**
+
+*Clone the Repository:*
+
+```
+git clone https://github.com/your-username/academitrack.git
+cd academitrack
+```
+
+*Install Dependencies:*
+
+```
+flutter pub get
+```
+
+*Add Firebase Config Files:*
+
+* `android/app/google-services.json`
+* *(Optional)* `ios/Runner/GoogleService-Info.plist`
+
+*Launch the App:*
+
+```
+flutter run
+```
+
+---
+
+## **Technologies Used**
+
+* Flutter
+* Firebase Auth
+* Firebase Realtime Database
+* Provider (for state management)
+
+---
+
+## **Disclaimer**
+
+This project is a student-built demo intended for academic use. It is not production-ready and is shared for learning and reference only. Plagiarism is strongly discouraged.
