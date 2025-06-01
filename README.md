@@ -20,7 +20,7 @@ AcademiTrack is a cross-platform mobile app built with Flutter to help students 
 
 To run this project, you’ll need:
 
-* Flutter SDK 3.x+
+* Flutter SDK 23
 * Firebase project setup with `google-services.json` and `firebase_options.dart`
 
 ---
